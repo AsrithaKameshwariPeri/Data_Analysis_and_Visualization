@@ -1,4 +1,4 @@
-# Data_Analysis_and_Visualization
+# DataAnalysis and Visualization
 1.This folder contains all the projects regarding analysis and visualization of various data sets from Kaggle and other sources.
 2.Learn how to efficiently manipulate, analyze, and visualize data using Python and its powerful libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
 3.Develop the skills to retrieve, manipulate, and aggregate data using SQL. 
